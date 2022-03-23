@@ -1,6 +1,6 @@
 # Hi, I'm Ed McCormic <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gemacjr&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gemacjr&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **gemacjr/gemacjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
